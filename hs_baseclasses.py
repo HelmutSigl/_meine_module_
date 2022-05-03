@@ -2,7 +2,7 @@
 # ------------------------------
 # datei: hs_baseclasses.py
 # autor: Helmut Sigl
-# datum: 06/11/2021
+# datum: 06/11/2022
 # ------------------------------
 
 # Imports
